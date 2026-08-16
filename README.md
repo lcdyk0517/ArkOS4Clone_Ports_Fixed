@@ -14,6 +14,7 @@
 | 蒸汽世界-大劫掠.sh | SteamWorld Heist |
 | 蒸汽世界-挖掘.sh | SteamWorld Dig |
 | 蒸汽世界-挖掘汉化版.sh | SteamWorld Dig |
+| 蒸汽世界2-挖掘.sh | SteamWorld Dig 2 |
 | 蒸汽世界2-挖掘汉化版.sh | SteamWorld Dig 2 |
 
 ## 反馈
