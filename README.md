@@ -19,4 +19,4 @@
 
 ## 反馈
 
-如遇到闪退的游戏，请联系 QQ：lcdyk66
+如遇到 ports 在 ArkOS4Clone 上闪退，请提交 [Issues](https://github.com/lcdyk0517/ArkOS4Clone_Ports_Fixed/issues)，并附上 [PortMaster 游戏列表](https://portmaster.games/games.html) 中的游戏名称。
