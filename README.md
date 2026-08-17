@@ -17,6 +17,7 @@
 | 蒸汽世界2-挖掘.sh | SteamWorld Dig 2 |
 | 蒸汽世界2-挖掘汉化版.sh | SteamWorld Dig 2 |
 | 死亡细胞GOG版.7z | Dead Cells |
+| 怒之铁拳4.7z | Sor4 |
 
 ## 反馈
 
